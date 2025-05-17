@@ -14,28 +14,28 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: FAST # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: The Marathon Continues # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  The journey of a young engineer between FAST cars and FAST pcs
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://kurama2212.github.io/"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Kurama2212 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: 
+  email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-J9RY3NRJWF # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -74,8 +74,9 @@ analytics:
     id: # fill in your Fathom Site ID
 
 # Page views settings
-pageviews:
-  provider: # now only supports 'goatcounter'
+pageviews: 
+  provider: <script data-goatcounter="https://kurama2212.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script> # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
