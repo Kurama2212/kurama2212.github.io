@@ -1,8 +1,8 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: "Home"
+icon: home
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+👋 Ciao! Sono Kurama, un ingegnere .
+In questo spazio racconto il mio percorso nell'automotive, tra università, progetti e sperimentazioni tecniche e altro di me.
