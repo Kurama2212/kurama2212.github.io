@@ -61,7 +61,7 @@ analytics:
   google:
     id: G-J9RY3NRJWF # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: kurama2212 # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,8 +75,7 @@ analytics:
 
 # Page views settings
 pageviews: 
-  provider: <script data-goatcounter="https://kurama2212.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script> # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
