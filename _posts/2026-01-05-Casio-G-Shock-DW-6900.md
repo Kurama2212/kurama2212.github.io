@@ -5,9 +5,8 @@ tags: [Lifestyle, Critical Thinking]
 image: assets/images/posts/Casio-G-Shock-DW-6900/20260105104121.png
 ---
 
-![G-Shock DW-6900](assets/images/posts/Casio-G-Shock-DW-6900/20260105104121.png)
 
-Il titolo di questo posto può suonare come figlio di un materialismo spicciolo comune in questa epoca di gusti discutibili e Dubai fashion scadente. Tuttavia la riflessione che oggi voglio sviscerare è sul concetto di possedere un oggetto a cui affezionarsi. Recentemente ho riscoperto il fascino dell'orologio digitale, questa è una di quelle passioni che hai fin da quando sei molto piccolo e di cui perdi le tracce per un periodo di vita per poi accorgerti nuovamente di quanto fosse interessante e figo. 
+Il titolo di questo post può suonare come figlio di un materialismo spicciolo comune in questa epoca di gusti discutibili e Dubai fashion scadente. Tuttavia la riflessione che oggi voglio sviscerare è sul concetto di possedere un oggetto a cui affezionarsi. Recentemente ho riscoperto il fascino dell'orologio digitale, questa è una di quelle passioni che hai fin da quando sei molto piccolo e di cui perdi le tracce per un periodo di vita per poi accorgerti nuovamente di quanto fosse interessante e figo. 
 
 ![The iconic design](assets/images/posts/Casio-G-Shock-DW-6900/20260105103945.png)
 
