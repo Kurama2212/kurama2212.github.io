@@ -2,6 +2,7 @@
 title: "Casio G-Shock DW-6900: Il restauro di un'icona e la ricerca dell'Amuleto"
 date: 2026-01-05
 tags: [Lifestyle, Critical Thinking]
+image: assets/images/posts/Casio-G-Shock-DW-6900/20260105104121.png
 ---
 
 ![G-Shock DW-6900](assets/images/posts/Casio-G-Shock-DW-6900/20260105104121.png)
