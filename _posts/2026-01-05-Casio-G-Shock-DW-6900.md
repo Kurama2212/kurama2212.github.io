@@ -33,6 +33,7 @@ Le regole della ricerca dell'amuleto sono, nel mio pensiero, riassumibili nei se
 - La sua assenza deve provocarti un fastidio ingiustificato
 - Deve affascinarti incondizionatamente
 - Deve essere fatto per durare
+
 Ciascuno di noi può ritrovare queste caratteristiche in un automobile, in un paio di scarpe, in una collana, in una bici o qualsiasi altra cosa.
 
 Questo set di regole istintive, si legano senza alcun dubbio alla storia del mio orologio. Dopo quasi 20 anni di avventure è riuscito a tornare nella mia vita in una forma mai vista prima. Sono così felice di potervi mostrare il risultato. Signore e signori, ecco a voi sua maestà, il Casio DW-6900!
